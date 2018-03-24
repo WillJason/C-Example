@@ -1,3 +1,3 @@
 # C-Example
 Example for C.
-[project]ArrayQuery：查找数组中间的一项.
+[project]ArrayQuery锛氭煡鎵炬暟缁勪腑闂撮」.

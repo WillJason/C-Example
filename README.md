@@ -1,3 +1,3 @@
 # C-Example
 Example for C.
-[project]ArrayQuery£º²éÕÒÊı×éÖĞ¼äµÄÒ»Ïî.
+[project]ArrayQueryï¼šæŸ¥æ‰¾æ•°ç»„ä¸­é—´çš„ä¸€é¡¹ã€‚
